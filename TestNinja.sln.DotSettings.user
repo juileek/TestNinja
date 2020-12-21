@@ -1,0 +1,19 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Int64 x:Key="/Default/Environment/Hierarchy/Build/BuildTool/MsbuildVersion/@EntryValue">1048576</s:Int64>
+	<s:String x:Key="/Default/Environment/Hierarchy/Build/BuildTool/CustomBuildToolPath/@EntryValue">C:\Program Files\dotnet\sdk\5.0.100\MSBuild.dll</s:String>
+	<s:Boolean x:Key="/Default/Environment/Hierarchy/EntityFrameworkOptions/IsAlreadyNotifiedAboutEntityFramework/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c159e7ec_002Db1b1_002D4d60_002Db060_002De09d2259862f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CanBeCancelledBy_UserIsAdmin_ReturnsTrue" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::092127D4-8F12-47FD-B6A7-7EE4ADF752CF::.NETCoreApp,Version=v2.1::TestNinja.UnitTest.ReservationTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::092127D4-8F12-47FD-B6A7-7EE4ADF752CF::.NETCoreApp,Version=v2.1::TestNinja.UnitTest.MathTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::092127D4-8F12-47FD-B6A7-7EE4ADF752CF::.NETCoreApp,Version=v2.1::TestNinja.UnitTest.HtmlFormatterTests.FormatAsBold_WhenCalled_ShouldEncloseTheStringWithStrongElement&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::092127D4-8F12-47FD-B6A7-7EE4ADF752CF::.NETCoreApp,Version=v2.1::TestNinja.UnitTest.CustomerControllerTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::092127D4-8F12-47FD-B6A7-7EE4ADF752CF::.NETCoreApp,Version=v2.1::TestNinja.UnitTest.ErrorLoggerTest.Log_WhenCalled_SetTheLastErrorProperty&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::092127D4-8F12-47FD-B6A7-7EE4ADF752CF::.NETCoreApp,Version=v2.1::TestNinja.UnitTest.ErrorLoggerTest.Log_WhenCalledWithNullOrEmptyString_ThrowsArgumentNullException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::092127D4-8F12-47FD-B6A7-7EE4ADF752CF::.NETCoreApp,Version=v2.1::TestNinja.UnitTest.ErrorLoggerTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::092127D4-8F12-47FD-B6A7-7EE4ADF752CF::.NETCoreApp,Version=v2.1::TestNinja.UnitTest.FizzBizzTests.GetOutput_IsDivisible_ReturnsExpectedString&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::092127D4-8F12-47FD-B6A7-7EE4ADF752CF::.NETCoreApp,Version=v2.1::TestNinja.UnitTest.FizzBizzTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::092127D4-8F12-47FD-B6A7-7EE4ADF752CF::.NETCoreApp,Version=v2.1::TestNinja.UnitTest.DemeritPointaCalculatorTests.CalculatorDemeritPoints_SpeedAndSpeedLimit_ReturnsDemeritPoints&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::092127D4-8F12-47FD-B6A7-7EE4ADF752CF::.NETCoreApp,Version=v2.1::TestNinja.UnitTest.DemeritPointaCalculatorTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
