@@ -60,9 +60,17 @@
     <Compile Include="Fundamentals\Stack.cs" />
     <Compile Include="Mocking\BookingHelper.cs" />
     <Compile Include="Mocking\EmployeeController.cs" />
+    <Compile Include="Mocking\EmpStore.cs" />
+    <Compile Include="Mocking\FileReader.cs" />
+    <Compile Include="Mocking\IEmpStore.cs" />
+    <Compile Include="Mocking\IFileReader.cs" />
+    <Compile Include="Mocking\IInstallerRepo.cs" />
     <Compile Include="Mocking\InstallerHelper.cs" />
+    <Compile Include="Mocking\InstallerRepo.cs" />
     <Compile Include="Mocking\OrderService.cs" />
     <Compile Include="Mocking\Product.cs" />
+    <Compile Include="Mocking\Program.cs" />
+    <Compile Include="Mocking\VideoRepo.cs" />
     <Compile Include="Mocking\VideoService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

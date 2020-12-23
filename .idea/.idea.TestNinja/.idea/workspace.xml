@@ -152,6 +152,25 @@
       <option value="$PROJECT_DIR$/TestNinja/Fundamentals/FizzBuzz.cs" />
       <option value="$PROJECT_DIR$/TestNinja/Fundamentals/DemeritPointsCalculator.cs" />
       <option value="$PROJECT_DIR$/TestNinja.UnitTest/DemeritPointaCalculatorTests.cs" />
+      <option value="$PROJECT_DIR$/TestNinja/Fundamentals/Stack.cs" />
+      <option value="$PROJECT_DIR$/TestNinja.UnitTest/StackTests.cs" />
+      <option value="$PROJECT_DIR$/TestNinja/Mocking/FileReader.cs" />
+      <option value="$PROJECT_DIR$/TestNinja.UnitTest/FakeFileReader.cs" />
+      <option value="$PROJECT_DIR$/TestNinja/Mocking/Program.cs" />
+      <option value="$PROJECT_DIR$/TestNinja/Mocking/OrderService.cs" />
+      <option value="$PROJECT_DIR$/TestNinja.UnitTest/Mocking/OrderServiceTests.cs" />
+      <option value="$PROJECT_DIR$/TestNinja/Mocking/Product.cs" />
+      <option value="$PROJECT_DIR$/TestNinja.UnitTest/Mocking/ProductTests.cs" />
+      <option value="$PROJECT_DIR$/TestNinja/Mocking/VideoRepo.cs" />
+      <option value="$PROJECT_DIR$/TestNinja.UnitTest/Mocking/VideoServiceTest.cs" />
+      <option value="$PROJECT_DIR$/TestNinja/Mocking/VideoService.cs" />
+      <option value="$PROJECT_DIR$/TestNinja/Mocking/InstallerHelper.cs" />
+      <option value="$PROJECT_DIR$/TestNinja/Mocking/IInstallerRepo.cs" />
+      <option value="$PROJECT_DIR$/TestNinja/Mocking/InstallerRepo.cs" />
+      <option value="$PROJECT_DIR$/TestNinja.UnitTest/Mocking/InstallHelperTests.cs" />
+      <option value="$PROJECT_DIR$/TestNinja/Mocking/EmpStore.cs" />
+      <option value="$PROJECT_DIR$/TestNinja/Mocking/EmployeeController.cs" />
+      <option value="$PROJECT_DIR$/TestNinja.UnitTest/Mocking/EmployeeControllerTests.cs" />
     </changedPaths>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -264,7 +283,7 @@
       <updated>1507227824194</updated>
       <workItem from="1507227825406" duration="23277000" />
       <workItem from="1508952072060" duration="74000" />
-      <workItem from="1608562431949" duration="16114000" />
+      <workItem from="1608562431949" duration="37066000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1507240218760</created>
