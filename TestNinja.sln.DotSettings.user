@@ -24,5 +24,9 @@
     &lt;TestId&gt;NUnit3x::092127D4-8F12-47FD-B6A7-7EE4ADF752CF::.NETCoreApp,Version=v2.1::TestNinja.UnitTest.Mocking.InstallHelperTests.DownloaderInstaller_DownloadSuccess_ReturnsTrue&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::092127D4-8F12-47FD-B6A7-7EE4ADF752CF::.NETCoreApp,Version=v2.1::TestNinja.UnitTest.Mocking.EmployeeControllerTests.DeleteEmployee_WhenCalled_DeleteTheEmployeeFromDb&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::092127D4-8F12-47FD-B6A7-7EE4ADF752CF::.NETCoreApp,Version=v2.1::TestNinja.UnitTest.Mocking.EmployeeControllerTests.DeleteEmployee_WhenCalled_DeleteTheEmployeeFromDb2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::092127D4-8F12-47FD-B6A7-7EE4ADF752CF::.NETCoreApp,Version=v2.1::TestNinja.UnitTest.Mocking.BookingHelper_OverlappingBookingsExistTests.OverlappingBookingsExist_BookingCancelled_ReturnEmptyString&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::092127D4-8F12-47FD-B6A7-7EE4ADF752CF::.NETCoreApp,Version=v2.1::TestNinja.UnitTest.Mocking.BookingHelper_OverlappingBookingsExistTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::092127D4-8F12-47FD-B6A7-7EE4ADF752CF::.NETCoreApp,Version=v2.1::TestNinja.UnitTest.Mocking.HouseKeeperTests.SendStatementEmail_WhenCalled_GenerteStatement&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::092127D4-8F12-47FD-B6A7-7EE4ADF752CF::.NETCoreApp,Version=v2.1::TestNinja.UnitTest.Mocking.HouseKeeperTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

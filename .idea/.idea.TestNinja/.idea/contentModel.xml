@@ -31,9 +31,12 @@
         </e>
         <e p="Mocking" t="Include">
           <e p="BookingHelper.cs" t="Include" />
+          <e p="BookingRepo.cs" t="Include" />
+          <e p="EmailSender.cs" t="Include" />
           <e p="EmployeeController.cs" t="Include" />
           <e p="EmpStore.cs" t="Include" />
           <e p="FileReader.cs" t="Include" />
+          <e p="HousekeeperService.cs" t="Include" />
           <e p="IEmpStore.cs" t="Include" />
           <e p="IFileReader.cs" t="Include" />
           <e p="IInstallerRepo.cs" t="Include" />
@@ -42,6 +45,7 @@
           <e p="OrderService.cs" t="Include" />
           <e p="Product.cs" t="Include" />
           <e p="Program.cs" t="Include" />
+          <e p="StatementGenerator.cs" t="Include" />
           <e p="VideoRepo.cs" t="Include" />
           <e p="VideoService.cs" t="Include" />
         </e>
@@ -62,7 +66,9 @@
         <e p="HtmlFormatterTests.cs" t="Include" />
         <e p="MathTests.cs" t="Include" />
         <e p="Mocking" t="Include">
+          <e p="BookKeepingHelperTests.cs" t="Include" />
           <e p="EmployeeControllerTests.cs" t="Include" />
+          <e p="HouseKeeperTests.cs" t="Include" />
           <e p="InstallHelperTests.cs" t="Include" />
           <e p="OrderServiceTests.cs" t="Include" />
           <e p="ProductTests.cs" t="Include" />
